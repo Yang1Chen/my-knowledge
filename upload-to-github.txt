@@ -1,0 +1,9 @@
+cd /D
+git clone https://github.com/Yang1Chen/test.git  复制GitHub库到本地
+cd /D/test
+ls 显示本地文件夹下文件
+git add test.docx
+git commit -m"备注"
+git push origin master
+
+
